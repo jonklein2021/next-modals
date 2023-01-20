@@ -1,0 +1,20 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    background-color: #FFF;
+    width: 50vh;
+    height: 50vh;
+}
+
+.box h1 {
+    font-size: 36pt;
+    color: #121212;
+    margin: 10px 0 5px 0;
+}
+
+.box p {
+    text-align: left;
+    font-size: 18pt;
+    color: #121212;
+    margin: 5px 20px 5px 20px;
+}
